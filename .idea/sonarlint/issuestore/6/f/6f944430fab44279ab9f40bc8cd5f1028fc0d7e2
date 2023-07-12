@@ -1,0 +1,7 @@
+
+d
+java:S3824•"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(©Õÿµÿÿÿÿÿ
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¹Ã†Åûÿÿÿÿ
+Y
+java:S1155s">Use isEmpty() to check whether the collection is empty or not.(¸İ›øÿÿÿÿ

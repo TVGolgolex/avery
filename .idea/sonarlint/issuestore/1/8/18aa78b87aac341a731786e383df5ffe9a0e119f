@@ -1,0 +1,19 @@
+
+J
+java:S3740 "/Provide the parametrized type for this generic.(Ãˆ¦—ýÿÿÿÿ
+K
+java:S3740‚"/Provide the parametrized type for this generic.(ˆðô”úÿÿÿÿ
+t
+java:S1192W"^Define a constant instead of duplicating this literal "File argument can not be null" 3 times.(°Š¥Ä
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ãˆ¦—ýÿÿÿÿ
+Y
+java:S1155E">Use isEmpty() to check whether the collection is empty or not.(©Þø„úÿÿÿÿ
+G
+java:S3011G",This accessibility update should be removed.(²ÇËàýÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ˆðô”úÿÿÿÿ
+d
+java:S5361Š"HReplace this call to "replaceAll()" by a call to the "replace()" method.(é¢ž üÿÿÿÿ
+H
+java:S3011’",This accessibility update should be removed.(²ÇËàýÿÿÿÿ

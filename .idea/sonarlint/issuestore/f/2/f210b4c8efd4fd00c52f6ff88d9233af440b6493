@@ -1,0 +1,12 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(·‚½Šÿÿÿÿÿ
+G
+java:S3011'",This accessibility update should be removed.(²ÇËàıÿÿÿÿ
+C	java:S108+")Either remove or fill this block of code.(éáåøÿÿÿÿ
+a
+java:S17644"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ŸŞî”
+c
+java:S5361;"HReplace this call to "replaceAll()" by a call to the "replace()" method.(é¢ üÿÿÿÿ
+G
+java:S3011C",This accessibility update should be removed.(²ÇËàıÿÿÿÿ

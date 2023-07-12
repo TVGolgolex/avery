@@ -1,0 +1,20 @@
+
+E
+java:S3740 "/Provide the parametrized type for this generic.(¥ώ¤„
+k	java:S116"VRename this field "CONFIG_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒώΆ
+m	java:S116	"XRename this field "CONFIG_HEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ς—σ
+p	java:S116
+"VRename this field "CONFIG_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ιρÿχώÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ήΗ
+F
+java:S2065"0Remove the "transient" modifier from this field.(ƒώΆ
+F
+java:S2065	"0Remove the "transient" modifier from this field.(ς—σ
+K
+java:S2065
+"0Remove the "transient" modifier from this field.(ιρÿχώÿÿÿÿ
+E
+java:S2065"0Remove the "transient" modifier from this field.(Ή–
+F
+java:S2065"0Remove the "transient" modifier from this field.(µ αΓ

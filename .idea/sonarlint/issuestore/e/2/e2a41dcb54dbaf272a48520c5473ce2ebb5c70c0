@@ -1,0 +1,47 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ø‡ìøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(‚ÌËÍ
+J
+java:S37406"/Provide the parametrized type for this generic.(·şáâıÿÿÿÿ
+K
+java:S3740é"/Provide the parametrized type for this generic.(¯ƒ¬êıÿÿÿÿ
+D
+java:S3740í"/Provide the parametrized type for this generic.(á•
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(˜¤«ÿÿÿÿÿ
+G
+java:S3011O",This accessibility bypass should be removed.(ğ—ÛÈûÿÿÿÿ
+r
+java:S6201T"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+G
+java:S3011[",This accessibility bypass should be removed.(ğ—ÛÈûÿÿÿÿ
+r
+java:S6201`"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+G
+java:S3011r",This accessibility bypass should be removed.(ğ—ÛÈûÿÿÿÿ
+r
+java:S6201w"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+G
+java:S3011}",This accessibility bypass should be removed.(ğ—ÛÈûÿÿÿÿ
+s
+java:S6201‚"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+H
+java:S3011—",This accessibility bypass should be removed.(ğ—ÛÈûÿÿÿÿ
+s
+java:S6201œ"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+H
+java:S3011£",This accessibility bypass should be removed.(ğ—ÛÈûÿÿÿÿ
+s
+java:S6201¨"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+C
+java:S3011º",This accessibility bypass should be removed.(¶û ß
+B
+java:S3011¾",This accessibility bypass should be removed.(¤±®Q
+s
+java:S6201Ğ"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+s
+java:S6201İ"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(¾í›¨
+â
+java:S6541;"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 100 to 64, Complexity from 23 to 14, Nesting Level from 5 to 2, Number of Variables from 10 to 6.(˜¤«ÿÿÿÿÿ

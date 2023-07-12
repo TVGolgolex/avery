@@ -1,0 +1,25 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ë¨¯è
+E
+java:S3740("/Provide the parametrized type for this generic.(œ¹‡ê
+J
+java:S3740,"/Provide the parametrized type for this generic.(«ñ•øÿÿÿÿ
+E
+java:S37400"/Provide the parametrized type for this generic.(ˆ˜÷Ğ
+J
+java:S3740I"/Provide the parametrized type for this generic.(ÿÊËÁûÿÿÿÿ
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(áÙæ
+H
+java:S1874*"3Remove this use of "newInstance"; it is deprecated.(ş¿
+V
+java:S62014"@Replace this instanceof check and cast with 'instanceof Map map'(ï¯¹Å
+w
+java:S6201J"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedType'(æÖÚøÿÿÿÿ
+_
+java:S3358U"DExtract this nested ternary operation into an independent statement.(üıçşÿÿÿÿ
+w
+java:S6201U"\Replace this instanceof check and cast with 'instanceof ParameterizedType parameterizedtype'(üıçşÿÿÿÿ
+[
+java:S6201_"@Replace this instanceof check and cast with 'instanceof Map map'(Ğñ§Ñúÿÿÿÿ
