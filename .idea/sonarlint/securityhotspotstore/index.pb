@@ -49,9 +49,9 @@ s
 Csrc/main/java/project/avery/utilities/config/InternalConverter.java,e\2\e2a41dcb54dbaf272a48520c5473ce2ebb5c70c0
 ~
 Nsrc/main/java/project/avery/utilities/config/staticconverter/MapConverter.java,3\f\3f2548484dfcfbb0d4fd371e49cf2ecb74adf543
+m
+=src/main/java/project/avery/configuration/Configurations.java,2\1\21e2b3830a7aeac1205eb4623ab6313fad3e9d8b
 l
 <src/main/java/project/avery/configuration/AccountConfig.java,c\f\cf0345fd0a9117dc505c7669aa76182af9211a42
 V
 &src/main/java/project/avery/Avery.java,8\2\8207d5718d27b322335431b31a8fe71a49c8908d
-m
-=src/main/java/project/avery/configuration/Configurations.java,2\1\21e2b3830a7aeac1205eb4623ab6313fad3e9d8b
